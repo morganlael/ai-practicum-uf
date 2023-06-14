@@ -1,2 +1,2 @@
 # ai-practicum-uf
-A depo to organize info for AI UF session
+A repo to organize info for UF AI Practicum sessions
